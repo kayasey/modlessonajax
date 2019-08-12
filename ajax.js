@@ -1,6 +1,5 @@
 function MultichoiceQuestionFormSubmit(questionform){
 			var SELECTORS = {
-				TRIGGERBUTTONS: ".enrolusersbutton.enrol_manual_plugin [type='submit']",
 				UNWANTEDHIDDENFIELDS: ":input[name='_qf__lesson_display_answer_form_multichoice_singleanswer']"
 			};
 			
